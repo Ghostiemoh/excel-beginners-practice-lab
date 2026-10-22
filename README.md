@@ -51,3 +51,7 @@ Each exercise workbook is structured with:
 3. Read the learning objectives on the **`Instructions`** sheet.
 4. Switch to the **`Exercise`** tab, inspect the raw data, and write your formulas in the light-grey cells.
 5. Watch the cover sheet status change to `✅ Correct` once all 80 rows are completed correctly!
+
+## On my portfolio
+
+- Listed with my other work at [ghostiemoh.com](https://ghostiemoh.com/#work)
